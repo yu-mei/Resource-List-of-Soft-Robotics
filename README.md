@@ -2,7 +2,10 @@
 
 ## Tendon-driven Continuum Robots
 
-1. Visualization Toolkit
+1. Modeling and implement
+	- resource: https://github.com/JohnDTill/ContinuumRobotExamples
+	
+2. Visualization Toolkit
 
 	- CRVisToolkit：
      - blog: https://www.cs.toronto.edu/~jbk/opencontinuumrobotics/hands-on/2023/01/24/openCRVis.html
