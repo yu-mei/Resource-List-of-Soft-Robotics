@@ -3,7 +3,7 @@
 ## Tendon-driven Continuum Robots
 
 ### 1. Modeling and implement
-a) resource: https://github.com/JohnDTill/ContinuumRobotExamples
+a)  code:: https://github.com/JohnDTill/ContinuumRobotExamples
 
 ### 2. Visualization Toolkit
 a) CRVisToolkit：
@@ -12,6 +12,17 @@ a) CRVisToolkit：
 
 ## Soft Pneumatic Manipulator
 
+### 1. Discrete Cosserat Method
+a) paper: https://arxiv.org/abs/1702.03660
+b) code: https://github.com/tarquasso/Discrete_Cosserat_CB
+
+### 2. Control-Oriented Model
+a) paper: [SoftRobotics2022](https://www.liebertpub.com/doi/abs/10.1089/soro.2021.0035)
+b) code: https://github.com/BJCaasenbrood/soft-robot-model-MATLAB
+
+## Piston-Driven Pneumatically-Actuated Soft Robots
+a) paper: [LCSS2021](https://ieeexplore.ieee.org/abstract/document/9644579?casa_token=SLjJFd8ziJMAAAAA:3fJ-3HpUeXgfJncWV3itUIdBWVhqz_pGOiixmRAEsmckpdD0UMToQxFop6WTh5V2zYbmtK8fc44)
+b) code: https://github.com/tud-cor-sr/pcc-pneumatic-piston-backstepping
 
 
 (Updated on 03/07/2023)
