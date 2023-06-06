@@ -1,10 +1,17 @@
 # Resource-List-of-Soft-Robotics
 
-## Cosserat Rods Simulation
-a)  PyElastica(UIUC): https://www.cosseratrods.org/
-b)  SoRoSim(Renda):
+## Simulation Env
+
+### 1. Cossrot Rod Theory
+
+(a) PyElastica(UIUC): https://www.cosseratrods.org/
+(b) SoRoSim(Renda):
 - paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9895355
 - code: https://www.mathworks.com/matlabcentral/fileexchange/83038-sorosim
+
+### 2. SOFA
+- paper: https://www.liebertpub.com/doi/10.1089/soro.2021.0123
+- code: https://github.com/SofaDefrost/SofaGym
 
 
 ## Tendon-driven Continuum Robots
