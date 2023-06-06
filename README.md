@@ -1,9 +1,16 @@
 # Resource-List-of-Soft-Robotics
 
+## Cosserat Rods Simulation
+a)  PyElastica(UIUC): https://www.cosseratrods.org/
+b)  SoRoSim(Renda):
+- paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9895355
+- code: https://www.mathworks.com/matlabcentral/fileexchange/83038-sorosim
+
+
 ## Tendon-driven Continuum Robots
 
 ### 1. Modeling and implement
-a)  code:: https://github.com/JohnDTill/ContinuumRobotExamples
+a)  code: https://github.com/JohnDTill/ContinuumRobotExamples
 
 ### 2. Visualization Toolkit
 a) CRVisToolkit：
