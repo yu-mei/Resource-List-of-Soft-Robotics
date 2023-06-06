@@ -5,6 +5,7 @@
 ### 1. Cossrot Rod Theory
 
 (a) PyElastica(UIUC): https://www.cosseratrods.org/
+
 (b) SoRoSim(Renda):
 - paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9895355
 - code: https://www.mathworks.com/matlabcentral/fileexchange/83038-sorosim
