@@ -14,6 +14,15 @@
 - paper: https://www.liebertpub.com/doi/10.1089/soro.2021.0123
 - code: https://github.com/SofaDefrost/SofaGym
 
+### 3. SoMo
+- code: https://github.com/GrauleM/somogym?tab=readme-ov-file
+
+### 4. Sorotoki
+- code: https://github.com/BJCaasenbrood/SorotokiCode
+
+### 5. DiffPD
+- website: http://diffpd.csail.mit.edu/
+
 
 ## Tendon-driven Continuum Robots
 
