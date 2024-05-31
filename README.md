@@ -23,6 +23,11 @@
 ### 5. DiffPD
 - website: http://diffpd.csail.mit.edu/
 
+### 6. SoRoForge
+- End-to-End Soft Actuator Design
+- website: https://soroforge.com/
+- paper: https://ieeexplore.ieee.org/document/10041018
+
 
 ## Tendon-driven Continuum Robots
 
