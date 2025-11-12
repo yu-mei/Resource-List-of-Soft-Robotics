@@ -25,7 +25,7 @@
 
 ### 6. SoRoForge
 - End-to-End Soft Actuator Design
-- website: https://soroforge.com/
+- website: https://github.com/MacCurdyLab/SoRoForge
 - paper: https://ieeexplore.ieee.org/document/10041018
 
 
